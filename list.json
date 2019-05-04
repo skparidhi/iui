@@ -1,0 +1,36 @@
+{
+    "list":[
+        {
+            "title": "Old Man's War",
+            "link": "https://www.india.gov.in/",
+            "img": "clogo.png",
+            "desc": 
+            {
+              "shortdesc": "John",
+              "longdesc": "Scalzi"
+            },
+            "audio": "",
+            "cad": "CAD Models/scene.gltf"
+        },
+        {
+            "title": "The Lock Artist",
+            "cad": "",
+            "link": "https://www.india.gov.in/",
+            "img": "la.jpg",
+            "author": {
+              "firstName": "Steve",
+              "lastName": "Hamilton"
+            }
+        },
+        {
+            "title": "HTML5",
+            "cad": "CAD Models/scene.gltf",
+            "link": "https://www.india.gov.in/",
+            "img": "clogo.png",
+            "author": {
+              "firstName": "Remy",
+              "lastName": "Sharp"
+            }
+        }
+      ]
+}
